@@ -9,11 +9,12 @@ A página apresenta informações sobre mim, meus interesses e minha trajetória
 ## Tecnologias
 
 - HTML5
+- CSS
 
 ## Próximas melhorias
 
 - Aprimorar a estrutura HTML.
-- Implementar estilização com CSS.
+- Aprimorar estilização com CSS.
 - Adicionar interatividade com JavaScript futuramente.
 
 ## Autor
