@@ -8,24 +8,13 @@ Este projeto consiste em uma página de apresentação pessoal desenvolvida com 
 
 A proposta é reunir informações sobre minha trajetória acadêmica, interesses e objetivos profissionais em uma interface com identidade visual inspirada no universo medieval e fantástico.
 
-<<<<<<< HEAD
 ## 🛠️ Arsenal de tecnologias
-=======
-- HTML5
-- CSS
->>>>>>> 4e93e777c4dd96a09a5928d55eb324ca7fecbf99
 
 - 🧱 **HTML5:** estruturação e organização do conteúdo.
 - 🎨 **CSS3:** estilização, identidade visual e composição da interface.
 - ⚡ **JavaScript:** funcionalidades e interatividade da página.
 
-<<<<<<< HEAD
 ## 🏆 Estado atual do projeto
-=======
-- Aprimorar a estrutura HTML.
-- Aprimorar estilização com CSS.
-- Adicionar interatividade com JavaScript futuramente.
->>>>>>> 4e93e777c4dd96a09a5928d55eb324ca7fecbf99
 
 <details>
 <summary>📖 Registro da jornada</summary>
@@ -63,3 +52,5 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS), explorando o universo
 *📚 Cada projeto representa uma nova jornada. Cada linha de código, uma nova descoberta.*
 
 ⚔️ **Fim do registro... mas não da jornada!**
+
+
